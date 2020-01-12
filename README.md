@@ -23,6 +23,10 @@ Can be usefull to create groups (DoorGroups, ChatGroups, etc.) related to the pl
   * ``` AddGroup(groupName,...) ```
   * Create a group based on the passed name and jobs (see [*job_list.lua*](https://github.com/Bad57/Onset-Jobs/blob/master/jobs_list.lua) for details)
 
+* **IsPlayerInGroup**
+ * ``` IsPlayerInGroup(player,groupName) ```
+ * Return true if the player is in the given group or return false
+
 
 ## 🛠️ Coming Soon
 
