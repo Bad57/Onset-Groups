@@ -1,0 +1,13 @@
+{
+    "author": "Bad",
+    "version": "1.0",
+    "server_scripts": [
+        "ragP/server.lua",
+        "ragP/settings.lua"
+    ],
+    "client_scripts": [
+        "ragP/client.lua"
+    ],
+    "files": [
+    ]
+}
